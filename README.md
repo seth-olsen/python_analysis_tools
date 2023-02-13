@@ -1,6 +1,6 @@
 # python_analysis_tools
 
-Collection of Seth Olsen's basic Python 3.9 tools for data analysis.
+This repository is a collection of Seth Olsen's basic Python 3.9 tools for data analysis.
 
 
 ## required packages
@@ -9,3 +9,4 @@ Collection of Seth Olsen's basic Python 3.9 tools for data analysis.
 2. scipy
 3. pandas
 4. matplotlib
+5. numba
